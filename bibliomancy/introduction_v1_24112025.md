@@ -1,0 +1,7 @@
+File: xxx
+
+# Bibliography glossed and styled Bibliomancy: An Introduction #
+
+Deixes: https://github.com/b9Joker108/b9_dj_vj_goPsi_spin_108_svaha_a/blob/main/lexicon/b/bibliomancy_v1_24112025.md
+
+...
