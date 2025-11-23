@@ -40,11 +40,15 @@ Methodologies, philosophies, and practices for magico-intentional creative proce
 
 ## 🚀 Quick Start
 
+**New here?** Start with the [Quick Start Guide](QUICKSTART.md) for a 5-minute introduction!
+
 1. Browse the [VJ Applications](docs/vj-applications/) section to discover real-time visual performance tools
 2. Explore [Video Editing](docs/video-editing/) for professional-grade editing software
 3. Check [Installation Guides](docs/installation-guides/) for setup instructions
 4. Review [Practical Workflows](docs/practical-workflows/) for production pipelines
 5. Dive into [Learning Resources](docs/learning-resources/) for tutorials and educational content
+
+**Need help with terminology?** Check the [Glossary](GLOSSARY.md)!
 
 ## 🌟 Key Features
 
@@ -59,19 +63,27 @@ Methodologies, philosophies, and practices for magico-intentional creative proce
 
 Contributions are welcome! Whether you're adding new tools, updating documentation, or sharing workflows, your input helps the community.
 
+Please read the [Contributing Guidelines](CONTRIBUTING.md) before submitting contributions.
+
 ## 📄 License
 
 This repository is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## 🔗 Navigation
 
-- [VJ Applications Documentation](docs/vj-applications/README.md)
-- [Video Editing Documentation](docs/video-editing/README.md)
-- [Post-Processing Documentation](docs/post-processing/README.md)
-- [Learning Resources](docs/learning-resources/README.md)
-- [Practical Workflows](docs/practical-workflows/README.md)
-- [Installation Guides](docs/installation-guides/README.md)
-- [Mystical Process Art](docs/mystical-process-art/README.md)
+### Getting Started
+- **[Quick Start Guide](QUICKSTART.md)** - Get up and running in 5 minutes
+- **[Glossary](GLOSSARY.md)** - Comprehensive terminology reference
+- **[Contributing Guidelines](CONTRIBUTING.md)** - How to contribute to this repository
+
+### Main Documentation
+- **[VJ Applications](docs/vj-applications/README.md)** - Real-time visual performance tools
+- **[Video Editing](docs/video-editing/README.md)** - Professional editing software
+- **[Post-Processing](docs/post-processing/README.md)** - Effects and techniques
+- **[Learning Resources](docs/learning-resources/README.md)** - Tutorials and courses
+- **[Practical Workflows](docs/practical-workflows/README.md)** - Complete production pipelines
+- **[Installation Guides](docs/installation-guides/README.md)** - Setup instructions
+- **[Mystical Process Art](docs/mystical-process-art/README.md)** - Intentional creative practices
 
 ---
 
