@@ -93,6 +93,7 @@ This repository is licensed under the GNU General Public License v3.0 - see the 
 - **[Mystical Process Art](docs/mystical-process-art/README.md)** - Intentional creative practices
 
 ---
+# Covenant of the Illuminati #
 
 > *Through magico-intentional creative, ritual and mystical play and adept discipline and sovereign FOSS software tools, we manifest transformative multimodal experiences and beautiful possible worlds: "... for we are the music makers and we are the dreamers of dreams ...".*
 
