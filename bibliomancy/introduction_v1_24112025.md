@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/b9_dj_vj_goPsi_spin_108_svaha_a/blob/main/bibliomancy/introduction_v1_24112025.md
 
 # Bibliography glossed and styled Bibliomancy: An Introduction #
 
