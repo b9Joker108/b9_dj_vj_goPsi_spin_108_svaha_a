@@ -5,7 +5,7 @@
 
 
 
-# b9_dj_vj_goPsi_spin_108_svaha_a
+# b9_dj_vj_go[P](https://en.wikipedia.org/w/index.php?title=Wynn&oldid=1319860583)si_spin_108_svaha_a
 
 ## Multimodal Performative Magico-Intentional Process Art Repository
 
