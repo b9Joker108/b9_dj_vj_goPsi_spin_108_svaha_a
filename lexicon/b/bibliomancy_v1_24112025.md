@@ -2,7 +2,7 @@ File: https://github.com/b9Joker108/b9_dj_vj_goPsi_spin_108_svaha_a/blob/main/le
 
 # Bibliomancy: A Rudimentary Introduction #
 
-Please triangulate an archival encyclo-lexical \\|/Bibliomancy\\|/ article for my lustral illumination canon for the Illuminati: Endeavour to translation Bibliomancy into languages  and scripts of the world with cultural fidelity and re-render back-translations into the English with sovereign cultural fidelity, survey and report.
+Please triangulate an archival encyclo-lexical \\|/Bibliomancy\\|/ article for my lustral illumination canon for the Illuminati: Endeavour a working translation of Bibliomancy into languages and scripts of the world with cultural fidelity and re-render back-translations into the English with sovereign cultural fidelity, survey and report.
 
 Bibliomancy is divination by opening a book—often a revered or canonical text—at random and treating the encountered passage as an oracular response. [1][2][3] The learned, esoteric register of the term is anchored in Greek βιβλίον *biblion* “book” and μαντεία *manteia* “divination,” entering English in the mid‑18th century for the practice of consulting especially the Bible, Homer or Virgil as sortes. [4][5][3]
 
