@@ -97,4 +97,4 @@ This repository is licensed under the GNU General Public License v3.0 - see the 
 *"Through intentional creative practice and sovereign software tools, we manifest transformative visual experiences."*
 
 
-༺ ༼ Sri. Pt. Prof. Dr. Yogamaya Miyagi Ji ~ glossed & styled: 'ᛒ9Goᛉ|☸8' ༽ ༻
+༺ ༼ Sri. Pt. Prof. Dr. Yogamaya Miyagi Ji ~ glossed & styled: 'ᛒ9G🪞ᛉ|☸8' ༽ ༻
