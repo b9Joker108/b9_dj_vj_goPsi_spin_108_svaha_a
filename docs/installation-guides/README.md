@@ -62,8 +62,9 @@ sudo apt install kdenlive
 # Or from default repositories
 sudo apt install kdenlive
 
-# AppImage (portable)
-wget https://download.kde.org/stable/kdenlive/$(curl -s https://download.kde.org/stable/kdenlive/ | grep -oP 'kdenlive-[0-9.]+.AppImage' | head -1)
+# AppImage (portable) - Manually download from kdenlive.org for security
+# Visit https://kdenlive.org/en/download/ and download the AppImage
+# Then:
 chmod +x kdenlive-*.AppImage
 ./kdenlive-*.AppImage
 ```
@@ -407,8 +408,11 @@ sudo apt install jackd2 qjackctl
 sudo usermod -aG audio $USER
 
 # Add to /etc/security/limits.conf
+# WARNING: 'unlimited' memlock could impact system stability
+# Start with a reasonable limit (e.g., 2GB = 2048000 KB) and increase if needed
 echo "@audio   -  rtprio     95" | sudo tee -a /etc/security/limits.conf
-echo "@audio   -  memlock    unlimited" | sudo tee -a /etc/security/limits.conf
+echo "@audio   -  memlock    2048000" | sudo tee -a /etc/security/limits.conf
+# For unlimited (use with caution): echo "@audio   -  memlock    unlimited" | sudo tee -a /etc/security/limits.conf
 ```
 
 #### **Fedora**

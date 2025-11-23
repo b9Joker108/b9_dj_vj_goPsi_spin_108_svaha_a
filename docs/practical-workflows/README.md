@@ -455,8 +455,13 @@ Compressed version for online
    
    # Extract and corrupt
    ffmpeg -i input.mp4 -f rawvideo raw.yuv
-   # Manually corrupt yuv file with hex editor or:
+   
+   # WARNING: The following dd command modifies files. Always work on copies!
+   # Backup your file before corrupting:
+   cp raw.yuv raw_backup.yuv
+   # Manually corrupt yuv file with hex editor or carefully use dd:
    dd if=/dev/urandom of=raw.yuv bs=1 count=100 seek=10000 conv=notrunc
+   
    ffmpeg -f rawvideo -s 1920x1080 -r 30 -i raw.yuv -c:v libx264 glitched.mp4
    ```
 
@@ -657,9 +662,24 @@ ffmpeg -i frame_%04d.png -c:v prores_ks -profile:v 3 master.mov
 
 ### Backup Strategy
 ```bash
-# Automated backup script
+# Automated backup script with error handling
 #!/bin/bash
-rsync -av --progress project/ /backup/project_$(date +%Y%m%d)/
+BACKUP_DIR="/backup/project_$(date +%Y%m%d)"
+
+# Create backup
+if rsync -av --progress project/ "$BACKUP_DIR/"; then
+    echo "Backup completed successfully to $BACKUP_DIR"
+    # Verify backup
+    if diff -r project/ "$BACKUP_DIR/" > /dev/null; then
+        echo "Backup verified successfully"
+    else
+        echo "WARNING: Backup verification failed!"
+        exit 1
+    fi
+else
+    echo "ERROR: Backup failed!"
+    exit 1
+fi
 ```
 
 ### Project Management

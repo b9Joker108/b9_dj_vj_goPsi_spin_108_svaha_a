@@ -122,16 +122,16 @@ Welcome! This guide will help you quickly get started with FOSS video production
 **Total Cost**: $0 (Free)
 
 ### Professional Setup
-- **Editor**: DaVinci Resolve Studio ($295) or Kdenlive (Free)
+- **Editor**: DaVinci Resolve Studio (commercial license) or Kdenlive (Free)
 - **Color**: DaVinci Resolve Studio
 - **3D/VFX**: Blender
 - **Compositor**: Natron
 - **VJ**: Veejay + Processing
-- **Audio**: Ardour or Reaper ($60 personal license)
+- **Audio**: Ardour or Reaper (discounted personal license available)
 - **Graphics**: GIMP + Inkscape
 - **Utilities**: FFmpeg, HandBrake
 
-**Total Cost**: $295-355 (if choosing paid options)
+**Total Cost**: Check official websites for current pricing (DaVinci Resolve Studio and Reaper offer affordable professional licenses)
 
 ## 💡 First Projects
 

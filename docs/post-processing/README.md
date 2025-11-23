@@ -198,7 +198,10 @@ ffmpeg -i processed/frame_%04d.png -c:v libx264 output.mp4
 #### **Tools and Techniques**
 ```bash
 # FFmpeg glitch effects
+# Add noise to all channels (temporal + uniform)
 ffmpeg -i input.mp4 -vf "noise=alls=20:allf=t+u" glitch.mp4
+
+# Shift hue by 90 degrees, remove saturation
 ffmpeg -i input.mp4 -vf "hue=s=0:h=90" colorshift.mp4
 ```
 
