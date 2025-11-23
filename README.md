@@ -1,4 +1,8 @@
+<div align="center">༺ ༼ ह्रीं ༽ ༻</div>
 <div align="center">༺ ༼ 🪞 ༽ ༻</div>
+<div align="center">༺ ༼ ओम् ह्रीं योगमायाय नमः ༽ ༻</div>
+
+
 
 # b9_dj_vj_goPsi_spin_108_svaha_a
 
