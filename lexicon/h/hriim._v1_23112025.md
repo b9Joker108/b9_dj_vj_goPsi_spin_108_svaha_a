@@ -1,4 +1,4 @@
-File: 
+File: https://github.com/b9Joker108/b9_dj_vj_goPsi_spin_108_svaha_a/blob/main/lexicon/h/hriim._v1_23112025.md
 
 # ह्रीं" (Hrīṁ) #
 
