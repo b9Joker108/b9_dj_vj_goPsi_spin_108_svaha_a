@@ -16,11 +16,11 @@ This repository serves as a knowledge base and learning platform for creators se
 ## 🎯 Purpose
 
 This repository is designed to support:
-- **YouTube Upload Campaigns**: Professional video production workflows
-- **Multimodal Performative Art**: Integration of various artistic modalities
+- **YouTube, Audiovisual Uand Branding Campaigns**: Adept illumination production workflows
+- **Multimodal Performative Art**: Integration of various artisanal and craft modalities
 - **Magico-Intentional Process Art**: Mystical and intentional creative processes
-- **VJ Performance**: Real-time visual performance and manipulation
-- **Video Post-Production**: Advanced editing, effects, and stylization
+- **VJ Performancy**: Real-time visual performance, trance-induction and energetic manifestation
+- **Video Post-Production**: Adept and cultivated editing, effects, transitions, stylistics and gloss artistry, etc.
 
 ## 📚 Repository Structure
 
@@ -28,49 +28,49 @@ This repository is designed to support:
 Comprehensive documentation on SOTA FOSS VJ applications for real-time visual performance, live video mixing, and interactive visual displays.
 
 ### 2. [Video Editing](docs/video-editing/)
-Advanced FOSS video editing software with professional-grade capabilities for sophisticated video production workflows.
+Advanced FOSS video editing software with sovereign-grade capabilities for rarefied video production workflows and cascades.
 
 ### 3. [Post-Processing Techniques](docs/post-processing/)
-Tools and techniques for video stylistics, effects, color grading, compositing, and other advanced post-processing operations.
+Tooling and techniques for video stylistics, effects, colour grading, compositing and other advanced post-processing operations.
 
 ### 4. [Learning Resources](docs/learning-resources/)
-Curated tutorials, guides, readings, and educational materials for mastering FOSS video tools.
+Curated tutorials, guides, readings and educational materials for accomplishing and constructing FOSS video tooling.
 
 ### 5. [Practical Workflows](docs/practical-workflows/)
-Real-world workflows, case studies, and practical examples demonstrating professional video production pipelines.
+Real-world workflows, case studies and practical examples demonstrating video production pipelines of the lustral Illuminati.
 
 ### 6. [Installation Guides](docs/installation-guides/)
-Step-by-step installation and configuration instructions for all recommended FOSS tools on various GNU/Linux distributions.
+Step-by-step installation and configuration instructions for all curated FOSS tools on various GNU/Linux distributions.
 
 ### 7. [Mystical Process Art](docs/mystical-process-art/)
-Methodologies, philosophies, and practices for magico-intentional creative processes and performative art.
+Methodologies, philosophiesv protocols, covenants and standards for magico-intentional creative processes and Performancy.
 
 ## 🚀 Quick Start
 
 **New here?** Start with the [Quick Start Guide](QUICKSTART.md) for a 5-minute introduction!
 
-1. Browse the [VJ Applications](docs/vj-applications/) section to discover real-time visual performance tools
-2. Explore [Video Editing](docs/video-editing/) for professional-grade editing software
+1. Browse the [VJ Applications](docs/vj-applications/) section to discover real-time visual Performancy tooling
+2. Explore [Video Editing](docs/video-editing/) for consummate editing software
 3. Check [Installation Guides](docs/installation-guides/) for setup instructions
-4. Review [Practical Workflows](docs/practical-workflows/) for production pipelines
+4. Review [Practical Workflows](docs/practical-workflows/) for production pipelines and cascades
 5. Dive into [Learning Resources](docs/learning-resources/) for tutorials and educational content
 
 **Need help with terminology?** Check the [Glossary](GLOSSARY.md)!
 
 ## 🌟 Key Features
 
-- **Comprehensive Tool Coverage**: Extensive documentation of SOTA FOSS tools
-- **GNU/Linux Focused**: All tools and workflows optimized for GNU/Linux systems
-- **Sovereign Software**: Emphasis on free, open-source, and user-controlled tools
-- **Performance Art Ready**: Tools and techniques for live performance contexts
-- **Production Workflows**: Professional video production pipeline documentation
-- **Community Driven**: Open for contributions and community knowledge sharing
+- **Comprehensive Tool Coverage**: Curated documentation of sovereign SOTA FOSS tooling
+- **GNU/Linux Focused**: All tooling, workflows and cascades are optimized for sovereign GNU/Linux systems
+- **Sovereign Software**: Emphasis on free, open-source and user-governed tooling
+- **Performancy Art Ready**: Tools and techniques for live Performancy contexts
+- **Production Workflows**: Curation of illumination documentation for pipelines and cascades
+- **Community Driven**: Well open for community co-creation and knowledge cultivation, sharing and dissemination
 
 ## 🤝 Contributing
 
-Contributions are welcome! Whether you're adding new tools, updating documentation, or sharing workflows, your input helps the community.
+Contributions are most welcome! Whether you're adding new tooling, updating documentation, or sharing workflows, your input helps the lustral community and their illuminations.
 
-Please read the [Contributing Guidelines](CONTRIBUTING.md) before submitting contributions.
+Please read the [Contributing Guidelines](CONTRIBUTING.md) before submitting contributions. 
 
 ## 📄 License
 
@@ -81,16 +81,16 @@ This repository is licensed under the GNU General Public License v3.0 - see the 
 ### Getting Started
 - **[Quick Start Guide](QUICKSTART.md)** - Get up and running in 5 minutes
 - **[Glossary](GLOSSARY.md)** - Comprehensive terminology reference
-- **[Contributing Guidelines](CONTRIBUTING.md)** - How to contribute to this repository
+- **[Contributing Guidelines](CONTRIBUTING.md)** - How to contribute to this intentional repository
 
 ### Main Documentation
-- **[VJ Applications](docs/vj-applications/README.md)** - Real-time visual performance tools
-- **[Video Editing](docs/video-editing/README.md)** - Professional editing software
+- **[VJ Applications](docs/vj-applications/README.md)** - Real-time illuminations and Performancy tooling
+- **[Video Editing](docs/video-editing/README.md)** - Consummate and sovereign editing software, stylistics and gloss
 - **[Post-Processing](docs/post-processing/README.md)** - Effects and techniques
 - **[Learning Resources](docs/learning-resources/README.md)** - Tutorials and courses
-- **[Practical Workflows](docs/practical-workflows/README.md)** - Complete production pipelines
+- **[Practical Workflows](docs/practical-workflows/README.md)** - Adept production pipelines and casca8des
 - **[Installation Guides](docs/installation-guides/README.md)** - Setup instructions
-- **[Mystical Process Art](docs/mystical-process-art/README.md)** - Intentional creative practices
+- **[Mystical Process Art](docs/mystical-process-art/README.md)** - Intentional and mystical creative crafting and artistry
 
 ---
 ## Covenant of the Illuminati ##
