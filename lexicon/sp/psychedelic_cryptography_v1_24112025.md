@@ -49,3 +49,29 @@ Citations:
 [9] Fun & Weird: Psychedelic Cryptography https://myceliamonastery.com/fun-weird-psychedelic-cryptography/
 
 
+What, you couldn't find any peer-reviewed articles?
+
+There are very limited peer-reviewed academic articles specifically naming or focused on "Psychedelic Cryptography" as a formal discipline or method yet, given its recent emergence as an interdisciplinary and mostly experimental concept.
+
+The strongest and most scholarly engagement is from independent researchers and institutions like the **Qualia Research Institute (QRI)**, which documented and experimentally validated psychedelic cryptography schemes, especially in their "Non-Ordinary States of Consciousness Contest" [1].
+
+- This work has been disseminated as high-quality technical blog posts and open science experiment reports rather than traditional peer-reviewed journal articles.
+- It outlines proof-of-concept psychedelic cryptography methods exploiting altered visual perception (tracer effects, enhanced pattern recognition) to encode messages mainly decodable with psychedelic assistance. These methods demonstrate a computational advantage of psychedelic states, significant for consciousness science research [1].
+- The field intersects with neuroscience, cognition, information theory, and cryptography, opening avenues for interdisciplinary formal research that is nascent and actively evolving.
+- No currently indexed peer-reviewed journal papers solely dedicated to "Psychedelic Cryptography" were found in indexed bibliographic databases as of now, suggesting the concept is largely at the cutting edge of experimental research and not yet fully institutionalized in academia [1][2][3].
+
+So, the available body of evidence is presently in the form of scientific contest results, technical reports, preprints, interdisciplinary essays, and digital archival materials rather than traditional peer-reviewed publications.
+
+***
+
+This reflects the current research landscape: "Psychedelic Cryptography" is a frontier, experimental, and emerging research topic with promising foundational results documented with archival depth but awaiting formal peer-reviewed academic consolidation.
+
+Citations:
+[1] Non-Ordinary States of Consciousness Contest https://qri.org/blog/psycrypto-contest
+[2] The Mechanisms of Psychedelic Visionary Experiences https://pmc.ncbi.nlm.nih.gov/articles/PMC5625021/
+[3] Network, Cryptography, and the Next World to Come https://www.zygonjournal.org/article/id/11014/
+[4] Digital localisation in an illicit market space: Interactional ... https://www.research.ed.ac.uk/en/publications/digital-localisation-in-an-illicit-market-space-interactional-cre/
+[5] Will growth in cryptomarket drug buying increase the harms of ... https://research-repository.rmit.edu.au/articles/journal_contribution/Will_growth_in_cryptomarket_drug_buying_increase_the_harms_of_illicit_drugs_/27522966/1/files/50742891.pdf
+[6] How Digital 'Consumer Reports' of Cannabis and ... https://journals.sagepub.com/doi/pdf/10.1177/00380385231160470?download=true
+
+
