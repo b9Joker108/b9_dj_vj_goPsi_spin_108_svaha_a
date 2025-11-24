@@ -8,7 +8,7 @@ Bibliomancy has innumerable forms and typologies. A sturdy book may be covered w
 
 ## Leavening and Re-orienting ##
 
-Bibliomancy has innumerable forms and typologies. A sturdy book may be covered with a blót-cloth, invested as an altar and blótted upon magico-intentionally. This is Grimoire working which is a typology of Bibliomancy.
+Bibliomancy has innumerable forms and typologies. A [sturdy](https://github.com/b9Joker108/b9_dj_vj_goPsi_spin_108_svaha_a/blob/main/lexicon/s/sturdy_v1_24112025.md) book may be covered with a blót-cloth, invested as an altar and blótted upon magico-intentionally. This is Grimoire working which is a typology of Bibliomancy.
 
 Bibliomancy indeed encompasses a rich variety of forms and typologies, with some involving elaborate ritual and magical context such as the use of a blót-cloth to cover a sturdy book, consecrating it as an altar and investing it with magico-intentional force. This ritual act of blótting a grimoire aligns with a typology of bibliomancy that goes beyond mere random page opening, integrating sacrificial and devotional dimensions.
 
